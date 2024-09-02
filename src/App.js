@@ -1,24 +1,19 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import Form from './form';
+import { Container, Typography } from '@mui/material';
+import logo from './images/Residentia Logo without name.png';
 
 function App() {
   return (
-    <div className="App">
+    <Container className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <img src={logo} alt="Logo" style={{ width: '150px', marginBottom: '20px' }} />
+        <Typography variant="h3" component="h1" style={{ color: '#262161' }}>
+          Formulario de Mudanza
+        </Typography>
       </header>
-    </div>
+      <Form />
+    </Container>
   );
 }
 
