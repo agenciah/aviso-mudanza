@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/aviso-mudanza/build/static/css/main.e6c13ad2.css",
+    "main.js": "/aviso-mudanza/build/static/js/main.512e65af.js",
+    "static/js/453.8068f02e.chunk.js": "/aviso-mudanza/build/static/js/453.8068f02e.chunk.js",
+    "static/media/AUTORIZACION DE MUDANZA.jpg": "/aviso-mudanza/build/static/media/AUTORIZACION DE MUDANZA.328ca3fdcb86f15b8056.jpg",
+    "static/media/Residentia Logo without name.png": "/aviso-mudanza/build/static/media/Residentia Logo without name.b93a5174d8371286fc28.png",
+    "index.html": "/aviso-mudanza/build/index.html",
+    "main.e6c13ad2.css.map": "/aviso-mudanza/build/static/css/main.e6c13ad2.css.map",
+    "main.512e65af.js.map": "/aviso-mudanza/build/static/js/main.512e65af.js.map",
+    "453.8068f02e.chunk.js.map": "/aviso-mudanza/build/static/js/453.8068f02e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.512e65af.js"
+  ]
+}
